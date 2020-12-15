@@ -1,0 +1,20 @@
+#The variable used for 10-year absolute risk of liver cancer prediction were defined as follows:#
+age_at_study_date: Baseline age of participants (years);
+male_g2: 1 for males, 0 for females;
+region_is_urban:1 for urban,0 for rural;
+education_g2:1 for middle school and higher, 0 for primary school and below 
+cancer_his_NaN:1 for with parental or siblings history of cancer, 0 for without;
+cancer_diag: 1 for previous diagnosed of cnancer; 0 for not;
+has_diabetes: 1 for previous diagnosed of diabetes; 0 for not;
+cirrhosis_hep_diag: 1 for previous diagnosed of cirrhosis or chronic hepatitis; 0 for not;
+gall_diag: 1 for previous diagnosed of gallstone or gallbladder disease; 0 for not;
+bmi_calc:: body mass index(BMI; kg/m2);
+met:metabolic equivalent of task[MET]-h/day;
+random_glucose: random plasma glucose(mmol/L);
+smoke_g2:1 for ever smoker including ex- and current regular smoker;0 for never and occasional smoker;
+drink_g2_new:1 for ever weekly drinker including ex-regular, reduced-intake, or current regular drinker;0 for never weekly drinker
+hep_b_g2_new_NaN:1 for HBsAg seropositive;0 for HBsAg seronegative
+
+
+
+
